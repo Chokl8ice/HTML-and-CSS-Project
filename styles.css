@@ -1,0 +1,174 @@
+/* Master Styles  */
+  body {
+    background-color: #DCDCDC
+  }
+    .navbar{
+        color: #ffffff;
+        background-color: white;
+        font-family: sans-serif;
+        font-size: 24px;
+        font-weight: 300;
+    }
+    .navbar-brand {
+      font-weight: 500;
+    }
+    .navbar-header{
+        width:400px;
+        margin-left:75px !important;
+    }
+    .dropdown-item {
+      color: #DCDCDC;
+    }
+    .dropdown-item:hover {
+      color: #0BADA6;
+    }
+    .sigline{
+        color: #DCDCDC;
+        text-align: right;
+        font-family: sans-serif
+    }
+    .navbar-header .navbar-toggle .collapsed {
+      float: right;
+    }
+    .content{
+        margin-top:100px;
+    }
+    h1 {
+      font-family: sans-serif;
+        font-size: 28px;
+      font-weight: 300;
+      text-align: center
+    }
+    h2 {
+      font-family: sans-serif;
+        font-size: 24px;
+      font-weight: 300;
+      text-align: center
+    }
+    h3 {
+      font-family: sans-serif;
+      font-weight: 300;
+      text-align: center;
+    }
+    .box {
+      color: #0BADA6;
+      background: #ffffff;
+    }
+    .box-left {
+      padding: 20px;
+      margin: 30px;
+    }
+    .box-right {
+      padding: 20px;
+    }
+    .box-single {
+      padding: 50px;
+      margin: 70px;
+    }
+    .row.row-grid [class*="col-"] + [class*="col-"] {
+      margin-top: 30px;
+  }
+
+  /* Comparison */
+  .box-center-2 {
+    background: #ffffff;
+    margin: 60px;
+    padding: 30px;
+  }
+  h5 {
+    color: #0BADA6;
+    font-size: x-large;
+    font-weight: 550;
+    font-family: sans-serif;
+    text-align: left;
+    margin-top: 30px;
+  }
+  h6 {
+    color: #0BADA6;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+
+  /* Data */
+    .table {
+      color: #808080;
+      background: #ffffff;
+      width: 100%;
+      height: 100%;
+      padding: 20px;
+      margin-top: -20px;
+    }
+    .box-center {
+      margin-left: 60px;
+      margin-right: 60px;
+    }
+    h4 {
+      color: #0BADA6;
+      font-weight: 500;
+      font-family: sans-serif;
+      text-align: left;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    .title {
+      font-family: sans-serif;
+      text-align: left;
+      margin-bottom: 50px;
+    }
+    .row0 {
+      color: #000000;
+      font-weight: 400;
+    }
+    .row0:hover {
+      color: #000000;
+    }
+    tr:hover {
+      color: #0BADA6;
+    }
+
+
+
+
+    #summary {
+      margin: 10px;
+      font-size: 17px;
+      line-height: 1.8em;
+    }
+    
+    
+    #city-sample {
+        float: left;
+        width: 200px;
+        height: 200px;
+        margin: 10px 20px;
+    }
+    
+    #landing-viz {
+      padding:15px 15px 15px 15px;
+      width: 100%;
+      height: 100%;
+    }
+    
+    .figure:active{
+      border: 5px solid #cc5500;
+    }
+    
+    .jumbotron {
+        color: #fff;
+        background: #cc5500;
+        width: 100%;
+        height: 100%;
+        padding: 25px
+      }
+      
+      #viz-main {
+        padding: 25px 40px 30px 40px;
+        width: 100%;
+       }
+      
+
+      
